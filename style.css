@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color:white;
+    margin:40px;
+}
+
+#counterText{
+    color:white;
+    margin:40px;
+    text-decoration-line: underline;
+    text-underline-offset:20px;
+}
+#under{
+    border: top 10px;
+    color:white;
+}
+#btnarea{
+    margin:40px;
+
+}
+button{
+    height:30px;
+    width:100px
+    
+}
+#reset{
+    background-color: black;
+    color:white;
+    border-color: white;
+}
+#increment{
+    margin-right: 10px;;
+}
+#decrement{
+    margin-right: 10px;;
+}
+
